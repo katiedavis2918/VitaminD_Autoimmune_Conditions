@@ -2,15 +2,11 @@
 # "Generic script" 0.1:    ADD Effect Allele Frequencies (EAFs)
 #-------------------------------------------------------------------------------------------------
 
-# Pull Allele Frequencies using Biomart
+# Script Incomplete 
 
-devtools::install_github("JhuangLab/annovarR")
-library(annovarR)
-
-dat<-(ExposureX)
-names(dat)<-c("")
+# Pull Allele Frequencies (Biomart? Variant effect predictor?)
 
 
-
+# Idea if only Major AF's and not specific Effect allele frequencies can be pulled: 
 # if ref allele == minor allele, EAF = MAF
 # if ref allele == major allele, EAF = 1- MAF
