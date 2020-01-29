@@ -6,7 +6,8 @@ The script "Test_Dataset_November" has been used as a starting point and replace
 these can be adapted to the final datasets selected for the analysis (with correct column names etc).
 
 Test Analysis: Exposure = vitamin D and Outcome = MIP1B (cytokine)
-Sample exposure dataset: "VITD_SAMPLE_6SNPs"
+
+Sample exposure dataset: "VITD_SAMPLE_6SNPs" ;
 Sample outcome dataset: "MIP1Bdf_SAMPLE_6SNPs"
 
 
